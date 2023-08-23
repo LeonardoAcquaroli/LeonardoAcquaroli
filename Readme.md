@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeonardoAcquaroli
 - 👀 I’m interested in Data science
 - 📖 I’m currently studying Data science for Economics at Unimi
-- 💰 I have an accademic background in Economics
+- 💰 I have an accademic background in Business Economics
 - ⚽ I love soccer
 
 <!---
