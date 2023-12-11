@@ -1,4 +1,4 @@
-Hi! I'm Leonardo, and this is me in bullet points:
+# Hi! I'm Leonardo, and this is me in bullet points:
 - 🍝 As Steve Jobs suggested, I'm a hungry guy, in fact my favorite hobby is eating.
 - 💻 I love playing around with data, mostly building predictive statistical models.
 - 🏭 I'm Investor and Digital data analyst in Aircnc.
