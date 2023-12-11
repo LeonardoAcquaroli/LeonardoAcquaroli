@@ -1,8 +1,4 @@
 # Hi! I'm Leonardo, and this is me in bullet points:
-<div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden; display: inline-block;">
-    <img src="https://onedrive.live.com/embed?resid=7c5604b753f0b969%2126191&authkey=%21ANh-WfU4DIu8Itg&width=400&height=400" alt="It's me!" style="width: 15%; height: 15%; object-fit: cover;">
-</div>
-
 
 - 🍝 As Steve Jobs suggested, I'm a hungry guy, in fact my favorite hobby is eating.
 - 💻 I love playing around with data, mostly building predictive statistical models.
