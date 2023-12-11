@@ -1,5 +1,5 @@
 # Hi! I'm Leonardo, and this is me in bullet points:
-<iframe src="https://onedrive.live.com/embed?resid=7c5604b753f0b969%2126192&authkey=!AB0V8pVdJus0Co0" width="98" height="120" frameborder="0" scrolling="no"></iframe>
+<img src="https://onedrive.live.com/embed?resid=7c5604b753f0b969%2126192&authkey=!AB0V8pVdJus0Co0" alt="It's me!" width="200"/>
 
 - 🍝 As Steve Jobs suggested, I'm a hungry guy, in fact my favorite hobby is eating.
 - 💻 I love playing around with data, mostly building predictive statistical models.
