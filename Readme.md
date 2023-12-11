@@ -1,6 +1,6 @@
 # Hi! I'm Leonardo, and this is me in bullet points:
 <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden;">
-    <img src="https://api.datapizza.tech/media/users/28a9cd6c-baa7-4238-b138-1c6d1c802fcb/avatar_BOj3ovT.jpg" alt="It's me!" style="width: 100%; height: 100%; object-fit: cover;">
+    <img src="https://onedrive.live.com/embed?resid=7c5604b753f0b969%2126191&authkey=%21ANh-WfU4DIu8Itg&width=400&height=400" alt="It's me!" style="width: 15%; height: 15%; object-fit: cover;">
 </div>
 
 
