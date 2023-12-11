@@ -1,5 +1,5 @@
 # Hi! I'm Leonardo, and this is me in bullet points:
-![It's me!]([https://example.com/image.jpg](https://1drv.ms/i/s!Amm58FO3BFZ872MYE-0lYMyQ-fBw?e=VCBPGn))
+![It's me!](https://1drv.ms/i/s!Amm58FO3BFZ872MYE-0lYMyQ-fBw?e=VCBPGn)
 - 🍝 As Steve Jobs suggested, I'm a hungry guy, in fact my favorite hobby is eating.
 - 💻 I love playing around with data, mostly building predictive statistical models.
 - 🏭 I'm Investor and Digital data analyst in Aircnc.
