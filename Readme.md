@@ -2,7 +2,7 @@
 
 - 🍝 As Steve Jobs suggested, I'm a hungry guy, in fact my favorite hobby is eating.
 - 💻 I love playing around with data, mostly building predictive statistical models.
-- ⚽ I'm deepening the world of Football analytics and betting and I play football since I was 6.
+- ⚽ I play football since I was 6.
 - 🧠 I co-founded UnimAI, the student group to share knowledge, experiences and make connections in the world of Data science.
 - 💸 I curated several Financial Education events and developed "B come Bill" a startup to bring financial education into schools through gamification.
 - 📖 I take courses, read books and all those things we brag about.
